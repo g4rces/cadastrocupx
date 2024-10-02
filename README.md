@@ -41,7 +41,7 @@ Abaixo estão os arquivos principais que compõem o sistema:
    - Acesse `http://localhost/nome_do_projeto/index.php` no seu navegador.
 
 3. **Operações**:
-   - Utilize a página inicial para navegar entre as funcionalidades: cadastrar, editar, excluir e pesquisar beneficiários.
+   - Utilize a página inicial para navegar entre as funcionalidades: cadastrar e consultar. editar e excluir é diretamente na aba de consulta
 
 ## Contribuição
 
